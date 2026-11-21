@@ -1,6 +1,6 @@
 print("hello word") 
 name="abhi"
-age=21
+age=22
 salary=50000
 age2=age
 print(age2)

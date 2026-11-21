@@ -1,4 +1,4 @@
-print("hello word") 
+print("Hello Word") 
 name="abhi"
 age=22
 salary=50000

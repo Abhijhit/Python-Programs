@@ -7,7 +7,7 @@ print(age2)
 print(name)
 
 #print sum
-a = 4
+a = 6
 b = 8
 sum = a + b
 print(sum)

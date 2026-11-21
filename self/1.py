@@ -8,7 +8,7 @@ print(name)
 
 #print sum
 a = 4
-b = 6 
+b = 8
 sum = a + b
 print(sum)
 #1.Arithmetic operators

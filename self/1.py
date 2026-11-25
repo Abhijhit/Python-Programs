@@ -1,6 +1,6 @@
 print("Hello Word") 
-name="abhi"
-age=22
+name="ritu"
+age=26
 salary=50000
 age2=age
 print(age2)
